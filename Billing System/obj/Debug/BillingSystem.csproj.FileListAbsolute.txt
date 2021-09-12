@@ -1,0 +1,110 @@
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\BillingSystem.csprojAssemblyReference.cache
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.frmAdminDashboard.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmLogin.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmProducts.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmPurchaseAndSales.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmTransactions.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmUsers.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmCategories.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmDeaCust.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmInventory.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.frmUserDashboard.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.csprojAssemblyReference.cache
+C:\Users\AB\Desktop\Billig System Project\Billing System\bin\Debug\BillingSystem.exe.config
+C:\Users\AB\Desktop\Billig System Project\Billing System\bin\Debug\BillingSystem.exe
+C:\Users\AB\Desktop\Billig System Project\Billing System\bin\Debug\BillingSystem.pdb
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.exe
+C:\Users\AB\Desktop\Billig System Project\Billing System\obj\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\bin\Debug\BillingSystem.exe.config
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\bin\Debug\BillingSystem.exe
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\bin\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.frmAdminDashboard.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmCategories.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmDeaCust.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmInventory.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmLogin.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmProducts.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmPurchaseAndSales.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmTransactions.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.frmUserDashboard.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmUsers.resources
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.exe
+C:\Users\USER\Desktop\New folder\Billig System Project\Billing System\obj\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\bin\Debug\BillingSystem.exe.config
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\bin\Debug\BillingSystem.exe
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\bin\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.frmAdminDashboard.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmCategories.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmDeaCust.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmInventory.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmLogin.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmProducts.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmPurchaseAndSales.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmTransactions.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.frmUserDashboard.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmUsers.resources
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.exe
+C:\Users\USER\Desktop\Projeeect\Billig System Project\Billing System\obj\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\bin\Debug\BillingSystem.exe.config
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.exe
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\bin\Debug\BillingSystem.exe
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\bin\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.frmAdminDashboard.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmCategories.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmDeaCust.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmInventory.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmLogin.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmProducts.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmPurchaseAndSales.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmTransactions.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.frmUserDashboard.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmUsers.resources
+C:\Users\USER\Desktop\Project For Test\Billig System Project\Billing System\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\bin\Debug\BillingSystem.exe.config
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.exe
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\bin\Debug\BillingSystem.exe
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\bin\Debug\BillingSystem.pdb
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.frmAdminDashboard.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmCategories.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmDeaCust.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmInventory.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmLogin.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmProducts.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmPurchaseAndSales.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmTransactions.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.frmUserDashboard.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmUsers.resources
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.UI.frmGraph.resources
+H:\6th Semester\Softwar Development 2\Final\Final\Billig System Project\Billing System\bin\Debug\BillingSystem.exe.config
+H:\6th Semester\Softwar Development 2\Final\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.exe
+H:\6th Semester\Softwar Development 2\Final\Final\Billig System Project\Billing System\obj\Debug\BillingSystem.pdb
+G:\Documents\Boss\BUBT\6th Semester\Softwar Development 2\Final\Defense\Billig System Project\Billing System\bin\Debug\BillingSystem.exe.config
+G:\Documents\Boss\BUBT\6th Semester\Softwar Development 2\Final\Defense\Billig System Project\Billing System\obj\Debug\BillingSystem.exe
+G:\Documents\Boss\BUBT\6th Semester\Softwar Development 2\Final\Defense\Billig System Project\Billing System\obj\Debug\BillingSystem.pdb

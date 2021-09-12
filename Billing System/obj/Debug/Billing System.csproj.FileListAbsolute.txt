@@ -1,0 +1,15 @@
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\Billing System.csprojAssemblyReference.cache
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmDeaCust.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\Billing System.csproj.GenerateResource.cache
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\AB\Desktop\Billig System Project\AnyStore\obj\Debug\AnyStore.pdb
